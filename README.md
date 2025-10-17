@@ -1,11 +1,11 @@
 # CKA Bookmarks
-[k8s Documentation](https://kubernetes.io/docs/home/)
-[kubeadm Upgrade](https://v1-25.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)
-[k8s Networking Service v1.25](https://v1-25.docs.kubernetes.io/docs/concepts/services-networking/service/)
-[k8s Networking Service](https://kubernetes.io/docs/concepts/services-networking/service/)
-[k8s Persistent Volumes PVs](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)
-[k8s Config Maps](https://kubernetes.io/docs/concepts/configuration/configmap/)
-[k8s Config Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
+[k8s Documentation](https://kubernetes.io/docs/home/)\
+[kubeadm Upgrade](https://v1-25.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)\
+[k8s Networking Service v1.25](https://v1-25.docs.kubernetes.io/docs/concepts/services-networking/service/)\
+[k8s Networking Service](https://kubernetes.io/docs/concepts/services-networking/service/)\
+[k8s Persistent Volumes PVs](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)\
+[k8s Config Maps](https://kubernetes.io/docs/concepts/configuration/configmap/)\
+[k8s Config Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)\
 https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
 https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
@@ -25,6 +25,7 @@ https://github.com/kodekloudhub/certified-kubernetes-administrator-course - CKA 
 
 
 # CKA Aliases
+```
 alias ll='ls -l'
 alias kcr='kubectl create'
 alias ka='kubectl apply -f'
@@ -42,3 +43,4 @@ export alias do='--dry-run=client -o yaml'
 export alias oy='-o yaml'
 echo 'alias k=kubectl' >>~/.bashrc
 echo 'complete -o default -F __start_kubectl k' >>~/.bashrc
+```
