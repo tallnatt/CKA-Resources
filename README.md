@@ -6,8 +6,8 @@
 [k8s Persistent Volumes PVs](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)\
 [k8s Config Maps](https://kubernetes.io/docs/concepts/configuration/configmap/)\
 [k8s Config Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)\
-https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
-https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
+[k8s Controller Deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)\
+[k8s Controller Replica Set](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)\
 https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
 https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/
 https://kubernetes.io/docs/concepts/workloads/controllers/job/
